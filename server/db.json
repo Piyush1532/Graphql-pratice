@@ -1,0 +1,184 @@
+{
+  "FoodData": [
+    {
+      "id": 1,
+      "name": "Biryani",
+      "image": "https://wallpapers.com/images/hd/biryani-with-meat-cbgpci69xdzoy177.jpg",
+      "description": "Biryani is a mixed rice dish originating from the Indian subcontinent.",
+      "ingredients": "Basmati rice, Chicken or mutton, Spices, Onions, Tomatoes, Yogurt, Ghee",
+      "type": "Main Course",
+      "recipe": "1. Wash and soak the rice for 30 minutes.\n2. Marinate the chicken/mutton with yogurt and spices for at least 2 hours.\n3. Fry onions until golden brown.\n4. Parboil the rice with whole spices.\n5. Layer the rice and marinated meat in a pot, alternating with fried onions and chopped tomatoes.\n6. Cook on low heat, covered, until the rice and meat are tender."
+    },
+    {
+      "id": 2,
+      "name": "Masala Dosa",
+      "image": "https://ranveerbrar.com/wp-content/uploads/2021/02/Masala-dosa-scaled.jpg",
+      "description": "Masala dosa is a fermented crepe made from rice batter and black lentils, filled with a spicy potato filling.",
+      "ingredients": "Rice, Black lentils (urad dal), Potatoes, Spices, Oil",
+      "type": "Breakfast",
+      "recipe": "1. Soak rice and black lentils separately for 4-6 hours.\n2. Grind them to a smooth batter and ferment overnight.\n3. Boil, peel, and mash potatoes, mix with spices for filling.\n4. Spread dosa batter on a hot skillet, add potato filling, fold, and cook until crisp. Serve hot with coconut chutney and sambar."
+    },
+    {
+      "id": 3,
+      "name": "Paneer Tikka",
+      "image": "https://geekrobocook.com/wp-content/uploads/2021/03/12.-Grilled-Paneer.jpg",
+      "description": "Paneer tikka is a popular Indian dish made from chunks of paneer marinated in spices and grilled.",
+      "ingredients": "Paneer (Indian cottage cheese), Yogurt, Spices, Bell peppers, Onions",
+      "type": "Appetizer",
+      "recipe": "1. Cut paneer into cubes and marinate with yogurt, spices, and diced vegetables for 1-2 hours.\n2. Skewer the marinated paneer and vegetables.\n3. Grill on medium-high heat until golden brown on all sides.\n4. Serve hot with mint chutney and onion slices."
+    },
+    {
+      "id": 4,
+      "name": "Chole Bhature",
+      "image": "https://wallpapercave.com/wp/wp9199693.jpg",
+      "description": "Chole bhature is a combination of spicy chickpea curry (chole) served with fried bread (bhature).",
+      "ingredients": "Chickpeas, Spices, All-purpose flour, Yogurt, Baking soda",
+      "type": "Main Course",
+      "recipe": "1. Soak chickpeas overnight and boil until tender.\n2. Cook chickpeas with spices until thickened.\n3. Make dough with flour, yogurt, and baking soda, let it rest for 1-2 hours.\n4. Roll out dough, deep fry bhature until puffed and golden brown. Serve hot with chole."
+    },
+    {
+      "id": 5,
+      "name": "Samosa",
+      "image": "https://images.pexels.com/photos/14883752/pexels-photo-14883752.jpeg?cs=srgb&dl=pexels-shameel-mukkath-14883752.jpg&fm=jpg",
+      "description": "Samosa is a fried or baked pastry with a savory filling, such as spiced potatoes, peas, or lentils.",
+      "ingredients": "Potatoes, Peas, Spices, Flour, Oil",
+      "type": "Appetizer",
+      "recipe": "1. Boil, peel, and mash potatoes.\n2. Mix with spices, peas, and herbs for filling.\n3. Make dough with flour, roll out, cut into circles.\n4. Fill each circle with potato mixture, fold into a triangle, and seal edges.\n5. Deep fry until golden brown and crispy. Serve hot with tamarind chutney."
+    },
+    {
+      "id": 6,
+      "name": "Rogan Josh",
+      "image": "https://img.taste.com.au/TFQ_zAsZ/taste/2017/06/lamb-rogan-josh-127388-1.jpg",
+      "description": "Rogan josh is a popular Kashmiri dish made with tender meat (usually lamb or goat) cooked with a rich and aromatic gravy.",
+      "ingredients": "Lamb or goat meat, Yogurt, Tomatoes, Onions, Spices, Ghee",
+      "type": "Main Course",
+      "recipe": "1. Marinate meat with yogurt, spices, and grated onions for at least 2 hours.\n2. Cook marinated meat until tender.\n3. Make a gravy with tomatoes, onions, and spices.\n4. Combine cooked meat with gravy, simmer until flavors meld. Serve hot with rice or naan."
+    },
+    {
+      "id": 7,
+      "name": "Gulab Jamun",
+      "image": "https://wallpapercave.com/wp/wp2157271.jpg",
+      "description": "Gulab jamun is a sweet dessert made of milk solids, traditionally made in the Indian subcontinent.",
+      "ingredients": "Milk solids (khoya), Flour, Sugar, Cardamom, Rose water",
+      "type": "Dessert",
+      "recipe": "1. Mix milk solids, flour, and cardamom to form a dough.\n2. Shape dough into small balls.\n3. Deep fry until golden brown.\n4. Soak fried balls in sugar syrup with rose water for 2-3 hours before serving."
+    },
+    {
+      "id": 8,
+      "name": "Palak Paneer",
+      "image": "https://tastedrecipes.com/wp-content/uploads/2021/10/Hariyali-Paneer-Masala-5.jpg",
+      "description": "Palak paneer is a vegetarian dish originating from the Indian subcontinent, consisting of paneer (Indian cottage cheese) in a thick paste made from puréed spinach and seasoned with garlic, garam masala, and other spices.",
+      "ingredients": "Paneer (Indian cottage cheese), Spinach, Tomatoes, Onions, Spices, Ghee",
+      "type": "Main Course",
+      "recipe": "1. Blanch spinach, puree with tomatoes and onions.\n2. Sautee garlic and spices, add spinach puree.\n3. Add cubed paneer, simmer until heated through.\n4. Serve hot with rice or naan."
+    },
+    {
+      "id": 9,
+      "name": "Aloo Paratha",
+      "image": "https://i.pinimg.com/originals/af/83/49/af8349c33cc194911e3870097f79b0d5.jpg",
+      "description": "Aloo paratha is a type of Indian bread stuffed with spiced mashed potatoes.",
+      "ingredients": "Wheat flour, Potatoes, Spices, Oil",
+      "type": "Breakfast",
+      "recipe": "1. Boil, peel, and mash potatoes.\n2. Mix with spices for filling.\n3. Make dough with flour, roll out, stuff with potato mixture.\n4. Cook on a hot griddle with oil until golden brown on both sides. Serve hot with yogurt or pickle."
+    },
+    {
+      "id": 10,
+      "name": "Butter Chicken",
+      "image": "https://www.177milkstreet.com/assets/site/Recipes/_large/Butter-Chicken.jpg",
+      "description": "Butter chicken is a popular Indian dish of chicken in a mildly spiced tomato sauce.",
+      "ingredients": "Chicken, Tomatoes, Cream, Butter, Spices",
+      "type": "Main Course",
+      "recipe": "1. Marinate chicken with yogurt, lemon juice, and spices for at least 1 hour.\n2. Grill or bake marinated chicken until partially cooked.\n3. Prepare a sauce by sautéing onions, garlic, ginger, and spices.\n4. Add tomatoes and simmer until thickened.\n5. Add cream and butter, then cooked chicken. Simmer until chicken is fully cooked. Serve hot with rice or naan."
+    },
+    {
+      "id": 11,
+      "name": "Idli",
+      "image": "https://assets.cntraveller.in/photos/627a4112cbc04ca509426501/4:3/w_2932,h_2199,c_limit/Vegetarian%20South%20Indian%20breakfast%20thali%20-%20Idli%20vada%20sambar%20chutney%20-%20Image%20ID%202H3783R%20(RF).jpg",
+      "description": "Idli is a soft, savory cake made from fermented rice and black lentils, originating from the Indian subcontinent.",
+      "ingredients": "Rice, Black lentils (urad dal)",
+      "type": "Breakfast",
+      "recipe": "1. Soak rice and black lentils separately for 4-6 hours.\n2. Grind them to a smooth batter and ferment overnight.\n3. Grease idli molds and pour the batter.\n4. Steam for 10-12 minutes until cooked through. Serve hot with coconut chutney and sambar."
+    },
+    {
+      "id": 12,
+      "name": "Vada Pav",
+      "image": "https://c.ndtvimg.com/2023-03/g6akqbfo_vada-pav_625x300_04_March_23.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
+      "description": "Vada pav is a vegetarian fast food dish native to the Indian state of Maharashtra. It consists of a deep-fried potato dumpling placed inside a bread bun (pav) sliced almost in half through the middle.",
+      "ingredients": "Potatoes, Gram flour, Bread rolls, Spices, Chutneys",
+      "type": "Snack",
+      "recipe": "1. Boil, peel, and mash potatoes.\n2. Mix with spices and shape into small balls.\n3. Dip balls in gram flour batter and deep fry until golden brown.\n4. Slice bread rolls and spread chutneys inside. Place a fried potato ball and serve hot."
+    },
+    {
+      "id": 13,
+      "name": "Dhokla",
+      "image": "https://images.aws.nestle.recipes/original/69111af01e9114ea805c5fa4821c6a70_Khaman_Dhokla_Plating.jpg",
+      "description": "Dhokla is a steamed cake made from fermented rice and chickpea flour, popular in the Indian state of Gujarat.",
+      "ingredients": "Chickpea flour, Yogurt, Lemon juice, Spices, Baking soda",
+      "type": "Snack",
+      "recipe": "1. Mix chickpea flour, yogurt, lemon juice, and spices to form a batter. Let it ferment for 4-6 hours.\n2. Grease a steaming tray and pour the batter.\n3. Steam for 15-20 minutes until cooked through.\n4. Tempt with mustard seeds, curry leaves, and green chilies."
+    },
+    {
+      "id": 14,
+      "name": "Fish Curry",
+      "image": "https://www.chefkunalkapur.com/wp-content/uploads/2023/01/DSC08247-1300x731.jpg?v=1674579624",
+      "description": "Fish curry is a traditional Indian dish made with fish, spices, and usually coconut milk.",
+      "ingredients": "Fish, Coconut milk, Tomatoes, Onions, Spices",
+      "type": "Main Course",
+      "recipe": "1. Marinate fish with turmeric, salt, and lemon juice for 15-20 minutes.\n2. Sautee onions, ginger, garlic, and spices until fragrant.\n3. Add tomatoes and cook until softened.\n4. Pour in coconut milk and simmer until flavors meld.\n5. Add fish and cook until done. Serve hot with rice."
+    },
+    {
+      "id": 15,
+      "name": "Rasgulla",
+      "image": "https://www.thespruceeats.com/thmb/LRHVkNnPFRGjN5LixQWD1C9Pnjw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rasgulla-indian-dessert-1957839-hero-01-7c3528a2d34a4f1b9248c7483a73d0a6.jpg",
+      "description": "Rasgulla is a syrupy dessert popular in the Indian subcontinent, made from ball-shaped dumplings of chhena (an Indian cottage cheese) and semolina dough, cooked in light syrup made of sugar.",
+      "ingredients": "Chhena (Indian cottage cheese), Semolina, Sugar, Water, Cardamom",
+      "type": "Dessert",
+      "recipe": "1. Knead chhena and semolina into a smooth dough.\n2. Divide and shape dough into small balls.\n3. Boil sugar and water to make syrup, flavored with cardamom.\n4. Gently drop balls into simmering syrup and cook covered for 15-20 minutes.\n5. Let rasgullas cool in syrup before serving."
+    },
+    {
+      "id": 16,
+      "name": "Pulao",
+      "image": "https://media01.stockfood.com/largepreviews/MzUyNDA4ODY4/11368028-Veg-pulao-vegetarian-rice-dish-India.jpg",
+      "description": "Pulao is a rice dish cooked in seasoned broth with vegetables and/or meat.",
+      "ingredients": "Basmati rice, Vegetables or Meat, Spices, Ghee",
+      "type": "Main Course",
+      "recipe": "1. Rinse and soak basmati rice for 30 minutes.\n2. Sautee whole spices in ghee until fragrant.\n3. Add vegetables or meat and cook until partially done.\n4. Add soaked rice and water, bring to a boil.\n5. Simmer until rice is cooked and water is absorbed. Serve hot."
+    },
+    {
+      "id": 17,
+      "name": "Samosa Chaat",
+      "image": "https://as2.ftcdn.net/v2/jpg/01/55/70/21/1000_F_155702159_Whs3zsmE9lWk9NeourXOz54nClxqNz7j.jpg",
+      "description": "Samosa chaat is a popular Indian street food dish made by breaking samosas and mixing them with various chutneys, yogurt, onions, and spices.",
+      "ingredients": "Samosas, Yogurt, Tamarind chutney, Mint chutney, Onions, Spices, Sev",
+      "type": "Snack",
+      "recipe": "1. Break samosas into bite-sized pieces.\n2. Arrange on a plate and drizzle with yogurt and chutneys.\n3. Sprinkle chopped onions, spices, and sev on top.\n4. Serve immediately as a flavorful and crunchy snack."
+    },
+    {
+      "id": 18,
+      "name": "Mutton Rogan Josh",
+      "image": "https://www.chefkunalkapur.com/wp-content/uploads/2021/03/Mutton-Roganjosh-scaled.jpg?v=1620401698",
+      "description": "Mutton Rogan Josh is a classic Indian dish from the Kashmiri cuisine, consisting of tender mutton cooked with aromatic spices in a rich gravy.",
+      "ingredients": "Mutton, Yogurt, Tomatoes, Onions, Spices, Ghee",
+      "type": "Main Course",
+      "recipe": "1. Marinate mutton with yogurt, spices, and grated onions for at least 2 hours.\n2. Cook marinated mutton until tender.\n3. Make a gravy with tomatoes, onions, and spices.\n4. Combine cooked mutton with gravy, simmer until flavors meld. Serve hot with rice or naan."
+    },
+    {
+      "id": 19,
+      "name": "Dosa",
+      "image": "https://www.awesomecuisine.com/wp-content/uploads/2009/06/Plain-Dosa.jpg",
+      "description": "Dosa is a thin pancake or crepe originating from South India, made from a fermented batter of rice and black gram.",
+      "ingredients": "Rice, Black gram (urad dal), Fenugreek seeds",
+      "type": "Breakfast",
+      "recipe": "1. Soak rice, black gram, and fenugreek seeds separately for 4-6 hours.\n2. Grind them to a smooth batter and ferment overnight.\n3. Heat a griddle, pour a ladleful of batter, spread into a thin circle.\n4. Drizzle oil, cook until crisp. Serve hot with coconut chutney and sambar."
+    },
+    {
+      "id": 20,
+      "name": "Jalebi",
+      "image": "https://images.pexels.com/photos/14530314/pexels-photo-14530314.jpeg?cs=srgb&dl=pexels-sarayu-p-14530314.jpg&fm=jpg",
+      "description": "Jalebi is a sweet popular in countries of the Indian subcontinent, made by deep-frying maida flour (plain flour or all-purpose flour) batter in pretzel or circular shapes, which are then soaked in sugar syrup.",
+      "ingredients": "All-purpose flour (maida), Yogurt, Sugar, Saffron, Ghee",
+      "type": "Dessert",
+      "recipe": "1. Make a batter with flour, yogurt, and water. Let it ferment for 12 hours.\n2. Fill a piping bag with the batter.\n3. Heat ghee in a pan, pipe the batter into hot oil in circular shapes.\n4. Fry until crisp and golden brown.\n5. Soak in sugar syrup for a few minutes. Serve hot or cold."
+    }
+  ]
+}

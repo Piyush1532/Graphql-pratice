@@ -1,5 +1,6 @@
 const express=require("express")
-const expressGql=require("express-graphql")
+const expressGql=require("express-graphql");
+const schema = require("./schema");
 
 //create a server
 const server=express();
@@ -23,7 +24,7 @@ const PORT=3201;
 //for testing enable true and for production set false
 
 server.use("/graph",expressGql({
-    schema:{},
+    schema:schema,
 graphiql:true
 }))
 
